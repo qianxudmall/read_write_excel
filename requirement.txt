@@ -1,0 +1,5 @@
+adium-theme-ubuntu==0.3.4
+pygobject==3.20.0
+pyxdg==0.25
+unity-lens-photos==1.0
+xlrd==1.0.0
